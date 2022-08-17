@@ -41,12 +41,12 @@ footer{
    
 h1{
     color:antiquewhite;
-    font-size: 3rem;
+    font-size: 4rem;
     width: 100%;
     text-align: center;
     text-decoration: underline;
-    margin-top:100px;
-    margin-bottom: 100px;
+    margin-top:200px;
+    margin-bottom: 50px;
 }
 
 h2{
@@ -63,7 +63,6 @@ h3{
     font-style: italic;
     margin-top: 100px;
 }
-
 
 
 li{
@@ -292,6 +291,11 @@ margin-top: 50px;
     -webkit-backface-visibility: hidden;
   }
 
+  .imgpers{
+    height: 550px;
+    margin: 10px;
+    padding: 10px;
+  }
 
 
 
